@@ -3,7 +3,7 @@ Scripts para facilitar el uso de Docker.
 
 Los scripts se deben utilizar de la siguiente forma:
 
-sh <Nombre-script> </Ruta_guardado>
+sh [Nombre-script] [</Ruta_guardado>]
 
 --------------------------------------------------------------------------------------------------------------------------------
 El Script_SubirImagenesRepo se debe usar de la siguiente forma:
