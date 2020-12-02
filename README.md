@@ -1,4 +1,4 @@
-# script_docker
+# Script_docker
 🐳 Scripts para facilitar el uso de Docker.
 
 Los scripts se deben utilizar de la siguiente forma:
