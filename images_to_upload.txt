@@ -1,4 +1,0 @@
-ewels/multiqc:v1.7
-broadinstitute/gatk3:3.7-0
-broadinstitute/gatk:4.1.4.0
-broadinstitute/picard:2.21.4
